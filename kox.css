@@ -1,0 +1,18 @@
+body {
+    background:linear-gradient(to left,green,red,blue)
+}
+.spoko  {
+    transition: opacity 0.20s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 10px 28px;
+    border-bottom: #1b1b1b;
+    font-size: large;
+    background-color: #1b1b1b;
+    color: red;
+    border-radius: 28px;
+    border-width: 2px
+}
+
