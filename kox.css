@@ -1,4 +1,6 @@
 body {
+    justify-content: center;
+    display: flex;
     background:linear-gradient(to left,green,red,blue)
 }
 .spoko  {
@@ -14,5 +16,8 @@ body {
     color: red;
     border-radius: 28px;
     border-width: 2px
+}
+.kox {
+    color: #1b1b1b;
 }
 
